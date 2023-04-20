@@ -32,6 +32,10 @@ public class BaseClass{
 		System.out.println("after suite finishes");
 
 	}
+	
+	public void login() {
+		System.out.println("this is login");
+	}
 
 	
 }
